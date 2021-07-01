@@ -1,9 +1,9 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Aplikasi Perekaman Toko Buku](http://datalaptop-uas.herokuapp.com/login) klik
+### [Diagram dan penjelasan](https://drive.google.com/folderview?id=1oUmIrd34FoCQ0gZQuvyI_ziaGz9c4jeO) klik
 #### By
-- Nama  : Ade Sugiantoro
-- NIM   : 18090064
-- Kelas : 6B
+- Nama  : Yogi Prayogi
+- NIM   : 18090010
+- Kelas : 6c
 #### Tools
 - Laravel       : Framework PHP
 - Bootstrap     : Framework CSS
